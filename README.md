@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Narendar Reddy
 - 👀 I’m interested in front end developement 
 - 🌱 I’m currently learning new java script libraries.
--  Developed application are availble at:   
+-  Recently completed front end mentor challenges are availble at:   
    https://naren-reactdev.github.io/multistepform/   
    https://naren-reactdev.github.io/joblistingsapp/  
 - 📫 How to reach me naren.thatikonda@gmail.com
