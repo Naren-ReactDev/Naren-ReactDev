@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new java script libraries.
 -  Recently completed front end mentor challenges are availble at:   
    https://naren-reactdev.github.io/multistepform/   
-   https://naren-reactdev.github.io/joblistingsapp/
+   https://naren-reactdev.github.io/joblistingsapp/  
    https://naren-reactdev.github.io/countries/  
 - 📫 How to reach me naren.thatikonda@gmail.com
 - 😄 Pronouns: He/Him
