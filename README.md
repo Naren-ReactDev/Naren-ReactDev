@@ -8,7 +8,7 @@
 - 📫 How to reach me naren.thatikonda@gmail.com
 - 😄 Pronouns: He/Him
 - My Tech Stack:  
- Java Script/ES6, React JS,  Redux, Typescript, Material UI, HTML5, CSS3, GraphQL, Formik 
+ Java Script/ES6, React JS, Next Js,  Redux, Typescript, Material UI, HTML5, CSS3, GraphQL, Formik 
 
 <!---
 Naren-ReactDev/Naren-ReactDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
